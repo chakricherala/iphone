@@ -1,3 +1,4 @@
+//used gsap and three.js
 import React from 'react'
 import { footerLinks } from '../constants'
 

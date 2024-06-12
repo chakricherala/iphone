@@ -1,3 +1,4 @@
+//used gsap and three.js
 import gsap from "gsap"
 
 import { ScrollTrigger } from "gsap/all"
